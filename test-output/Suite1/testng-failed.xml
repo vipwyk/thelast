@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <listeners>
+    <listener class-name="com.framedev.JianTingqi"/>
+  </listeners>
+  <test name="Nopackage(failed)">
+    <classes>
+      <class name="com.framedev.TestOne">
+        <methods>
+          <include name="five"/>
+          <include name="three"/>
+          <include name="doAfterMethod"/>
+          <include name="four"/>
+          <include name="two"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.framedev.TestOne -->
+    </classes>
+  </test> <!-- Nopackage(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

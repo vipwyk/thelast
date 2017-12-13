@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" verbose="1">
+<listeners>
+<listener class-name="com.framedev.JianTingqi"></listener>
+</listeners>
+	<test name="Nopackage">
+		<classes>
+			
+			<class name="com.framedev.TestOne"/>
+<!--			<class name="com.framedev.TestTwo"/>
+ 			<class name="com.framedev.TestThree"/>
+			<class name="com.framedev.TestFour"/>
+			<class name="com.framedev.TestFive"/>
+			<class name="com.framedev.TestSix"/>
+			<class name="com.framedev.TestSeven"/>
+			<class name="com.framedev.TestEight"/>
+			<class name="com.framedev.TestNine"/>
+			<class name="com.framedev.TestTen"/>
+			<class name="com.framedev.TestEleven"/>
+			<class name="com.framedev.TestTwelve"/>
+			<class name="com.framedev.TestThirteen"/>
+			<class name="com.framedev.TestFourteen"/>
+			<class name="com.framedev.TestLast"/>
+			<class name="com.framedev.FayouJian"/>
+			<class name="com.framedev.FayouJian"/> -->
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5810" started-at="2017-12-13T08:05:24Z" finished-at="2017-12-13T08:05:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5810" started-at="2017-12-13T08:05:24Z" finished-at="2017-12-13T08:05:30Z">
+      <class name="com.framedev.FayouJian">
+        <test-method status="PASS" signature="aa()[pri:0, instance:com.framedev.FayouJian@3ffc5af1]" name="aa" duration-ms="5788" started-at="2017-12-13T16:05:24Z" finished-at="2017-12-13T16:05:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aa -->
+      </class> <!-- com.framedev.FayouJian -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
