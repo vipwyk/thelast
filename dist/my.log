@@ -8749,3 +8749,126 @@ Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.tB
 Session ID: 936fe90c-05c1-4896-9fc2-9143bbf589af
 *** Element info: {Using=link text, value=֪ͨ����}
 [INFO ] 2017-12-13 14:49:31,935 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-14 16:12:48,245 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-14 16:12:48,290 com.webtest.util.Log - firefox
+[INFO ] 2017-12-14 16:12:51,862 com.webtest.util.Log - Opened url http://localhost:8032/xinhu/?m=login
+[INFO ] 2017-12-14 16:12:54,594 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[contains(.,'流程')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.10BNfw7QFzzR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14476, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 88045f40-85e9-44d3-b2e3-bec2b1b90063
+*** Element info: {Using=xpath, value=//span[contains(.,'流程')]}
+[INFO ] 2017-12-14 16:12:54,610 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #menu_list_num42
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.10BNfw7QFzzR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14476, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 88045f40-85e9-44d3-b2e3-bec2b1b90063
+*** Element info: {Using=id, value=menu_list_num42}
+[INFO ] 2017-12-14 16:12:54,623 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: 会议
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.10BNfw7QFzzR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14476, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 88045f40-85e9-44d3-b2e3-bec2b1b90063
+*** Element info: {Using=link text, value=会议}
+[INFO ] 2017-12-14 16:13:00,832 com.webtest.util.Log - Opened url http://localhost:8032/xinhu/?m=login
+[INFO ] 2017-12-14 16:13:03,092 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[contains(.,'流程')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.10BNfw7QFzzR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14476, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 88045f40-85e9-44d3-b2e3-bec2b1b90063
+*** Element info: {Using=xpath, value=//span[contains(.,'流程')]}
+[INFO ] 2017-12-14 16:13:03,115 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #menu_list_num42
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.10BNfw7QFzzR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14476, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 88045f40-85e9-44d3-b2e3-bec2b1b90063
+*** Element info: {Using=id, value=menu_list_num42}
+[INFO ] 2017-12-14 16:13:03,132 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: 会议
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.10BNfw7QFzzR, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14476, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 88045f40-85e9-44d3-b2e3-bec2b1b90063
+*** Element info: {Using=link text, value=会议}
+[INFO ] 2017-12-14 16:13:11,762 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-14 16:15:05,829 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-14 16:15:05,869 com.webtest.util.Log - firefox
+[INFO ] 2017-12-14 16:15:09,157 com.webtest.util.Log - Opened url http://localhost:8032/xinhu/?m=login
+[INFO ] 2017-12-14 16:15:11,585 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[contains(.,'流程')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=xpath, value=//span[contains(.,'流程')]}
+[INFO ] 2017-12-14 16:15:11,598 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: #menu_list_num42
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=id, value=menu_list_num42}
+[INFO ] 2017-12-14 16:15:11,611 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: 会议
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=link text, value=会议}
+[INFO ] 2017-12-14 16:15:17,810 com.webtest.util.Log - Opened url http://localhost:8032/xinhu/?m=login
+[INFO ] 2017-12-14 16:15:17,968 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=name, value=adminuser}
+[INFO ] 2017-12-14 16:15:17,972 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=xpath, value=//input[@placeholder='����������']}
+[INFO ] 2017-12-14 16:15:17,977 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=xpath, value=//button[@name='button']}
+[INFO ] 2017-12-14 16:15:17,983 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=xpath, value=//span[contains(.,'流程')]}
+[INFO ] 2017-12-14 16:15:17,987 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=id, value=menu_list_num42}
+[INFO ] 2017-12-14 16:15:17,991 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-P1UBEC0', ip: '192.168.48.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\lenovo\AppData\Local\Temp\rust_mozprofile.OUhV9puGevpG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18176, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 70808cd9-c697-4d36-b046-8c7b255e2b10
+*** Element info: {Using=link text, value=会议}
