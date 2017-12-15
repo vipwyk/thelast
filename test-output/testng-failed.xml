@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <listeners>
+    <listener class-name="WebtestListener.WebtestListener"/>
+  </listeners>
+  <test name="Nopackage(failed)">
     <classes>
-      <class name="com.testCases.TransferTest">
+      <class name="com.testCases.TitleTest">
         <methods>
-          <include name="one"/>
+          <include name="four"/>
           <include name="doAfterMethod"/>
+          <include name="five"/>
+          <include name="three"/>
           <include name="two"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.testCases.TransferTest -->
+      </class> <!-- com.testCases.TitleTest -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Nopackage(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

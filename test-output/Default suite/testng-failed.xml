@@ -3,14 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.testCases.TransferTest">
+      <class name="com.mail.MailBox">
         <methods>
-          <include name="one"/>
-          <include name="doAfterMethod"/>
-          <include name="two"/>
-          <include name="doBeforeMethod"/>
+          <include name="aa"/>
         </methods>
-      </class> <!-- com.testCases.TransferTest -->
+      </class> <!-- com.mail.MailBox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

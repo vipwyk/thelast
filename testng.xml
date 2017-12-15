@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite1" verbose="1">
-
+<listeners>
+<listener class-name="WebtestListener.WebtestListener"></listener>
+</listeners>
 	<test name="Nopackage">
 		<classes>
-			<class name="com.testCases.ChoiceTest"/>
+				<class name="com.testCases.TitleTest"/>
+				<class name="com.testCases.TypeTest"/>
+				<class name="com.testCases.UploadTest"/>
+				<class name="com.testCases.SearchTest"/>			
+				<class name="com.testCases.DateTest"/>			
+				<class name="com.testCases.DisplayTest"/>
+				<class name="com.testCases.ShowTest"/>
+				<class name="com.testCases.ChoiceTest"/>			
+				<class name="com.testCases.TimeTest"/>
+				<class name="com.testCases.TransferTest"/>
+				<class name="com.testCases.Testne"/>
+				<class name="com.testCases.GoodsTesta"/>
+				<class name="com.testCases.RepairTest"/>
+				<class name="com.testCases.ProcessTest"/>	
+				<class name="com.testCases.PathTesta"/>
+				<class name="com.testCases.CustomerTest"/>  
 
 		</classes>
 	</test>

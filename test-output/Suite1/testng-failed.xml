@@ -2,20 +2,20 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
   <listeners>
-    <listener class-name="com.framedev.JianTingqi"/>
+    <listener class-name="WebtestListener.WebtestListener"/>
   </listeners>
   <test name="Nopackage(failed)">
     <classes>
-      <class name="com.framedev.TestOne">
+      <class name="com.testCases.TitleTest">
         <methods>
+          <include name="four"/>
+          <include name="doAfterMethod"/>
           <include name="five"/>
           <include name="three"/>
-          <include name="doAfterMethod"/>
-          <include name="four"/>
           <include name="two"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.framedev.TestOne -->
+      </class> <!-- com.testCases.TitleTest -->
     </classes>
   </test> <!-- Nopackage(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

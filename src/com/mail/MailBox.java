@@ -19,9 +19,9 @@ public class MailBox {
     public String myEmailAccount = "vipwyk0506@163.com";
     public String myEmailPassword = "asd1234567";
     public String myEmailSMTPHost = "smtp.163.com";
-    public  String attachedFileName="D:\\java\\adzuoye\\mail\\ZipTestCompressing.zip";
-    private String htmlContent="祝您身体健康，万事如意！";
-    public String receiveMailAccount = "kerwin.wang@foxmail.com";
+    public  String attachedFileName="D:\\java\\adzuoye\\mail\\test-output.zip";
+    private String htmlContent="老师您好：<br>此邮件为测试报告。<br>测试人员：王永康<br>学号：2015015280<br>祝您顺利，万事如意！";
+    public String receiveMailAccount = "1121176445@qq.com";
   @Test
     public  void aa() throws Exception {
     	System.out.println("aaaa");
