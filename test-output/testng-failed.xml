@@ -6,6 +6,52 @@
   </listeners>
   <test name="Nopackage(failed)">
     <classes>
+      <class name="com.testCases.TransferTest">
+        <methods>
+          <include name="one"/>
+          <include name="doAfterMethod"/>
+          <include name="two"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.TransferTest -->
+      <class name="com.testCases.ChoiceTest">
+        <methods>
+          <include name="five"/>
+          <include name="doAfterMethod"/>
+          <include name="three"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.ChoiceTest -->
+      <class name="com.testCases.PathTesta">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="four"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.PathTesta -->
+      <class name="com.testCases.SearchTest">
+        <methods>
+          <include name="two"/>
+          <include name="open"/>
+          <include name="doAfterMethod"/>
+          <include name="one"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.SearchTest -->
+      <class name="com.testCases.Testne">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- com.testCases.Testne -->
+      <class name="com.testCases.ProcessTest">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="three"/>
+          <include name="four"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.ProcessTest -->
       <class name="com.testCases.TitleTest">
         <methods>
           <include name="four"/>
@@ -16,6 +62,27 @@
           <include name="doBeforeMethod"/>
         </methods>
       </class> <!-- com.testCases.TitleTest -->
+      <class name="com.testCases.ShowTest">
+        <methods>
+          <include name="six"/>
+          <include name="doAfterMethod"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.ShowTest -->
+      <class name="com.testCases.DateTest">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="open"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.DateTest -->
+      <class name="com.testCases.TimeTest">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="three"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.testCases.TimeTest -->
     </classes>
   </test> <!-- Nopackage(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

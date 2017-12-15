@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="6416" started-at="2017-12-15T02:25:33Z" finished-at="2017-12-15T02:25:40Z">
+  <suite name="Suite1" duration-ms="7241" started-at="2017-12-15T02:48:01Z" finished-at="2017-12-15T02:48:08Z">
     <groups>
     </groups>
-    <test name="Nopackage" duration-ms="6416" started-at="2017-12-15T02:25:33Z" finished-at="2017-12-15T02:25:40Z">
+    <test name="Nopackage" duration-ms="7241" started-at="2017-12-15T02:48:01Z" finished-at="2017-12-15T02:48:08Z">
       <class name="myZip.Compressing">
-        <test-method status="PASS" signature="zip()[pri:0, instance:myZip.Compressing@25618e91]" name="zip" duration-ms="85" started-at="2017-12-15T10:25:33Z" finished-at="2017-12-15T10:25:33Z">
+        <test-method status="PASS" signature="zip()[pri:0, instance:myZip.Compressing@25618e91]" name="zip" duration-ms="94" started-at="2017-12-15T10:48:01Z" finished-at="2017-12-15T10:48:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- zip -->
       </class> <!-- myZip.Compressing -->
       <class name="com.mail.MailBox">
-        <test-method status="PASS" signature="aa()[pri:0, instance:com.mail.MailBox@2cfb4a64]" name="aa" duration-ms="6309" started-at="2017-12-15T10:25:33Z" finished-at="2017-12-15T10:25:40Z">
+        <test-method status="PASS" signature="aa()[pri:0, instance:com.mail.MailBox@2cfb4a64]" name="aa" duration-ms="7125" started-at="2017-12-15T10:48:01Z" finished-at="2017-12-15T10:48:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aa -->
