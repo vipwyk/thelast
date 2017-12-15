@@ -4,7 +4,9 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;  
 import java.io.IOException;  
 import java.util.zip.ZipEntry;  
-import java.util.zip.ZipOutputStream;  
+import java.util.zip.ZipOutputStream;
+
+import org.testng.annotations.Test;  
   
 public class Compressing {  
 	  
@@ -122,8 +124,9 @@ public class Compressing {
     }  
   
       
-    //≤‚ ‘  
-    public static void main(String[] args) {  
+    //≤‚ ‘ 
+    @Test
+    public void zip(){  
         File f = new File("D:\\java\\adzuoye\\test-output");  
         new Compressing(new File( "D:\\java\\adzuoye\\mail",f.getName()+".zip")).zipFiles(f);  
     }  
